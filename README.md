@@ -1,5 +1,5 @@
-![GitHub pull requests](https://img.shields.io/github/issues-pr/2-github-cice/project-repo)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/2-github-cice/project-repo)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/cice-tfm-AlejandroPineda/tfm-back)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/cice-tfm-AlejandroPineda/tfm-back)
 # tfm-back
 
 # project-repo-back
